@@ -12,7 +12,7 @@ To get started with the project, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd COSC-120
     ```
 3. Install the required dependencies:
     ```sh
