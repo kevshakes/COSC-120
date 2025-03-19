@@ -1,0 +1,1 @@
+# A Python program to calculate the area of a circle. The program should take the radius as input from the user and print the area. 
